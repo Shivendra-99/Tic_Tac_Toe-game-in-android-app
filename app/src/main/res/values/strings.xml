@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic_Tac_Toe</string>
+    <string name="reset">Reset</string>
+    <string name="reset1">reset</string>
+    <string name="player_2_1">player_2 : 0</string>
+    <string name="player_1_2">player_1 : 0</string>
+</resources>
